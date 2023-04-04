@@ -16,3 +16,11 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# Ignorar todos los archivos de
+*.txt
+*.bin
+*.dat
+
+# Ignorar carpeta
+PDFS
